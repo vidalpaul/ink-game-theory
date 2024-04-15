@@ -1,0 +1,144 @@
+repo_name: vidalpaul/ink-game-theory
+report_id: e01a5fc68433583013318c9ebaa83ca8
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T01:19:53+00:00'
+requested_by: FaisalAl-Tameemi
+provider: github
+branch: main
+detected_tools_count: 11
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory
+  detection_source: Repo Metadata
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory
+  detection_source: Repo Metadata
+- name: "@types/bn.js"
+  description: TypeScript definitions for bn.js
+  package_url: https://www.npmjs.com/@types/bn.js
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18462/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.16.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vidalpaul/ink-game-theory/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: FaisalAl-Tameemi
+  last_updated_on: 2023-04-27 11:09:28.000000000 Z
